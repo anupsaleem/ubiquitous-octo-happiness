@@ -55,6 +55,7 @@
                 android:layout_marginRight="15dp"
                 android:layout_weight="1"
                 android:background="@drawable/rect"
+                android:onClick="login"
                 android:text="Sign in"
                 android:textColor="#3c3c3c" />
 

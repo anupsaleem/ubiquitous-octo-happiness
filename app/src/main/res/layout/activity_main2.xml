@@ -64,15 +64,16 @@
 />
 
 
-            <Button
-                android:id="@+id/button212"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:layout_marginTop="30dp"
-                android:background="@drawable/rect"
-                android:text="Register"
-                android:textColor="#3c3c3c" />
+        <Button
+            android:id="@+id/button212"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:layout_weight="1"
+            android:background="@drawable/rect"
+            android:onClick="register"
+            android:text="Register"
+            android:textColor="#3c3c3c" />
 
     </LinearLayout>
 
